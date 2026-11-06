@@ -1,0 +1,13 @@
+scikit-learn
+ipykernel
+numpy 
+pandas
+matplotlib
+seaborn
+flask
+plotly
+streamlit
+cufflinks
+scikit-learn
+sheryanalysis==0.1.0
+tensorflow
